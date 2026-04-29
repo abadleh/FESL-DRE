@@ -1,7 +1,0 @@
-parameter,value
-num_agents,250
-num_nodes,64
-num_edges,112
-grid_size,8x8
-hazard_centers,"[27, 28, 35]"
-exits,"[0, 7, 56, 63]"
