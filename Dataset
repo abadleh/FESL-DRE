@@ -1,1 +1,11 @@
+The dataset includes:
 
+agents_data.csv: synthetic agent profiles and behavioral states.
+graph_edges.csv: environment connectivity, hazard, density, and distance values.
+graph_nodes.csv: spatial layout of graph nodes.
+hazard_snapshot.csv: hazard distribution snapshot.
+simulation_metadata.csv: simulation configuration.
+
+The dataset is also available on Zenodo:
+
+https://doi.org/10.5281/zenodo.19882952
